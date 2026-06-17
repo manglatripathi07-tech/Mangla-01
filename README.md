@@ -1,2 +1,2 @@
 # Mangla-01
-This is my first gig repository
+This is my first git repository
